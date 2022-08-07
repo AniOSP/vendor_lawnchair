@@ -7,4 +7,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     QuickstepSwitcherOverlay \
-    Lawnchair
+    Lawnchair \
+		Lawnicons \
+		Lawnfeed \
